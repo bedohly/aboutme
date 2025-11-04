@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [bedohly.github.io](bedohly.github.io)
 
-- 📫 How to reach me **bedohly.proton.me**
+- 📫 How to reach me **bedohly@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
