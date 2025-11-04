@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bedohly&show_icons=true&locale=en" alt="bedohly" /></p>
 
-<img alt="github-snake" src="output/snake.svg" />
+<img alt="github-snake" src="https://github.com/bedohly/aboutme/blob/output/snake.svg" />
